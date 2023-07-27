@@ -7,11 +7,11 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "24579842"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "ec6105bf1a02c98f837300546dc341d1"
         },
         "WEBHOOK": {
             "description": "if your server is need web service! value = True else value = False",
@@ -19,12 +19,12 @@
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
-            "value": "",
+            "value": "The_Happy_Hour_Hindi",
             "required": false 
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "6496757104:AAH_QyqLyBrFI9Nw0sRNnlfXiU5szm15_SU"
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
@@ -35,7 +35,7 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://happythehour:skumar(2006)@cluster0.wttyshn.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
