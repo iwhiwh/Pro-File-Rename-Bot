@@ -48,16 +48,12 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b>Hᴀɪ {} 👋,
-Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
-Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ
-Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
-Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ
-Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Mister_Ash ✅</b>"""
+    START_TXT = """<b>𝗶 𝗺𝗮 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹𝗹 𝗿𝗲𝗻𝗮𝗺𝗲 𝗯𝗼𝘁 .....
+𝗧𝗵𝗶𝘀 𝗯𝗼𝘁 𝗶𝘀 𝗰𝗰𝗿𝗲𝗮𝘁𝗲 𝗯𝘆 𝗧𝗵𝗲 𝗛𝗮𝗽𝗽𝘆 𝗛𝗼𝘂𝗿</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Mister_Ash>Ash Ketchum </a> 
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Master_Jiraya>Master Jiraya</a> 
 ├✅ Cʜᴀɴɴᴇʟ : <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://t.me/The_Happy_Hour_Hindi>Nai pata</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/The_Happy_Hour_Hindi>Hindi 😁</a>
@@ -85,14 +81,8 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @Mister_Ash🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/Mister_Ash>😏Nai duga😁</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/The_Happy_Hour_Hindi>Nai pata😁</a>
-• ❣️ <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a>
-• ❣️ <a href=https://t.me/Mister_Ash>Ash Ketchum</a>
-• ❣️ <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a>
-• ❣️ <a href=https://t.me/Mister_Ash>Ash Ketchum</a>
-• ❣️ <a href=https://t.me/The_Happy_Hour_Hindi>Telegram</a>
-• ❣️ <a href=https://t.me/Mister_Ash>Bot Owner</a> """
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/Master_Jiraya>😏Nai duga😁</a>
+» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/The_Happy_Hour_Hindi>Nai pata😁</a>"""
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
