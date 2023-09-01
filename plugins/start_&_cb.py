@@ -73,7 +73,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("❣️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/The_Happy_Hour_Hindi")
                 ],[
-                InlineKeyboardButton("❤️‍🔥 ᴍʏ ᴏᴡɴᴇʀ", url='https://t.me/Mister_Ash')
+                InlineKeyboardButton("❤️‍🔥 ᴍʏ ᴏᴡɴᴇʀ", url='https://t.me/Master_jiraya')
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -87,7 +87,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("❣️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/The_Happy_Hour_Hindi")
                 ],[
-                InlineKeyboardButton("🖥️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/Mister_Ash")
+                InlineKeyboardButton("🖥️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/master_jiraya")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -99,7 +99,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/Mister_Ash")
+                InlineKeyboardButton("❣️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/master_jiraya")
                 ],[
                 InlineKeyboardButton("🖥️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/The_Happy_Hour_Hindi")
                 ],[
